@@ -13,7 +13,7 @@
 .copy_right_footer
 {
     position: fixed;
-    color: rgb(195, 0, 255);
+    color: rgb(121, 5, 167);
     bottom: 0;
     width: 100%;
     background-color: rgb(255, 242, 0);
@@ -25,5 +25,5 @@ canvas
 {
     border: 5px solid rgb(251, 0, 255);
     border-radius: 20px;
-    box-shadow: 5px 5px 5px rgb(255, 0, 0);
+    box-shadow: 5px 5px 5px 5px rgb(255, 0, 0);
 }
